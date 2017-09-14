@@ -1,0 +1,8 @@
+ProductID,ProductName,RecommendedPrice,Category
+1,DVD,105,LivingRoom
+2,Microwave,98,Kitchen
+3,Monitor,200,Office
+4,Speakers,85,Office
+5,Refrigerator,900,Kitchen
+6,VCR,165,LivingRoom
+7,CoffeePot,35,Kitchen
